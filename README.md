@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋, I'm Sherista Veminim!
 
-<!--
-**SheristaVeminim/SheristaVeminim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student taking my first steps into the exciting world of programming and development. 🌱 I'm eager to learn, explore, and grow as I build my skills and work on fun projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me  
+- 🔭 I’m currently learning **the basics of programming**  
+- 🌱 Exploring **Python, HTML, CSS, and JavaScript**  
+- 📖 Working on small projects to improve my skills  
+- ✨ Excited about **problem-solving, web development, and building cool stuff!**  
+
+---
+
+### 🛠️ Tools and Skills I'm Learning  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=black)   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=black)   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=black)   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
+---
+
+### 🎯 Goals  
+- 🌟 Build my first complete website  
+- 📚 Understand programming concepts like loops, conditionals, and functions  
+- 🌍 Contribute to open-source projects someday  
+
+---
+
+### 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SheristaVeminim&show_icons=true&theme=tokyonight)  
+
+---
+
+### ✨ Fun Quote  
+*"Every expert was once a beginner. Keep learning, and you'll amaze yourself!"*
