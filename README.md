@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Sherista Veminim!
 
+![Profile Views](https://komarev.com/ghpvc/?username=SheristaVeminim&color=blueviolet&style=flat)
+
 I'm a student taking my first steps into the exciting world of programming and development. 🌱 I'm eager to learn, explore, and grow as I build my skills and work on fun projects.
 
 ---
@@ -30,4 +32,4 @@ I'm a student taking my first steps into the exciting world of programming and d
 ---
 
 ### ✨ Fun Quote  
-*"Every expert was once a beginner. Keep learning, and you'll amaze yourself!"*
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
